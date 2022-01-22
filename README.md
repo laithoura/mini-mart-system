@@ -1,1 +1,1 @@
-# Mini Mart System (C# Assignment)
+# Mini Mart System (ISAD Assignment using C#)
